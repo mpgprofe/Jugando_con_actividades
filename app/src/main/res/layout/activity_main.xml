@@ -13,8 +13,8 @@
         android:layout_marginStart="65dp"
         android:layout_marginTop="129dp"
         android:ems="10"
+        android:hint="Pon tu nombre"
         android:inputType="textPersonName"
-        android:text="Nombre"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
