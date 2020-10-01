@@ -27,8 +27,8 @@ public class SaludoActivity extends AppCompatActivity {
 
         String nombrDeFuera = intentoDeFuera.getStringExtra(MainActivity.NOMBRE);
 
-        nombre.setText("Hola " +nombrDeFuera);
-        Log.e("SALUDO", "ALgo ha ido mal");
+        nombre.setText(getResources().getText(R.string.saludo) +" "+nombrDeFuera);
+        Log.e("SALUDO", getString(R.string.mensaje1));
 
 
         volver = findViewById(R.id.buttonVolver);

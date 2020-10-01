@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jugando con actividades</string>
+    <string name="saludo">Hola</string>
+    <string name="mensaje1">Algo ha ido mal</string>
+    <string name="volver">Volver</string>
+    <string name="lanzar">Lanzar Aplicación</string>
+
 </resources>

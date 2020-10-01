@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Playing with Activities</string>
+    <string name="saludo">Hi</string>
+    <string name="mensaje1">Something was wrong</string>
+    <string name="volver">Back</string>
+    <string name="lanzar">Start App</string>
+</resources>
